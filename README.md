@@ -1,5 +1,5 @@
 # IOS Development
-Chapman University | Spring 2021 | Chris Boyd
+### Chapman University | Spring 2021 | Chris Boyd
 
 * Project 1 - Sorting Algorithm in Swift
 * Proejct 2 - Simple Password Manger
