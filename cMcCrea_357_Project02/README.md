@@ -24,11 +24,17 @@ The project must be completed as a MacOS Terminal / Console application.
 ### Required Functionality
 
 Passwords will be stored in a dictionary with a key-value pair
+
 User generated name to identify password (key) => stored password (value)
+
 Passwords will be written to a file in JSON format
+
 When the application first opens, the file will be read into the Dictionary object
+
 Whenever a password is added or deleted, the file will be updated to match the Dictionary object
+
 Initially, users are asked if they would like to View all password names, View a single password, or Delete a password
+
 * View all
   * Lists all of the keys in the Dictionary object
 * View single
