@@ -1,12 +1,12 @@
-## Project 2 - Simple Password Manger
-# Corey McCrea
-References
+# Project 2 - Simple Password Manger
+## Corey McCrea
+### References
 
 https://stackoverflow.com/questions/41180292/negative-number-modulo-in-swift
 
 ----------
 
-**Summary**
+### Summary
 
 You will be building a simple terminal-based application. The application will have the basic functions of a password manager, such as add/encrypt, view/decrypt, and delete.
 Details
@@ -21,7 +21,7 @@ This application will not actually secure any data, just obfuscate it. The point
 
 The project must be completed as a MacOS Terminal / Console application.
 
-**Required Functionality**
+### Required Functionality
 
 Passwords will be stored in a dictionary with a key-value pair
 User generated name to identify password (key) => stored password (value)
