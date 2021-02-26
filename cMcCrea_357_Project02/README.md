@@ -12,7 +12,12 @@ You will be building a simple terminal-based application. The application will h
 Details
 The purpose of this assignment is to create the back-end structure and familiarize students with Swift in preparation for the next assignment - a password manager app on their phone.
 
-The application will make use of the following programming elements: string manipulation (reversing, Caesar Cipher), JSON storage / retrieval, reading / writing to files, asking for user input, validating user input.
+The application will make use of the following programming elements: 
+* string manipulation (reversing, Caesar Cipher)
+* JSON storage / retrieval 
+* reading / writing to files
+*  asking for user input 
+*  validating user input
 
 The passphrase element of the application should be familiar to those who have used password managers - a master password, that you use ONLY for this purpose to secure your other passwords.
 
