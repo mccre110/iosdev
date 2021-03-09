@@ -2,7 +2,8 @@
 ### Chapman University | Spring 2021 | Chris Boyd
 
 * Project 1 - Sorting Algorithm in Swift
-* Proejct 2 - Simple Password Manger
+* Project 2 - Simple Password Manager
+* Pre-Project 3 - Apple SwiftUI Tutorial
 
 ----------
 
