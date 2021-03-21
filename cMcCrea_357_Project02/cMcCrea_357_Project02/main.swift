@@ -41,7 +41,6 @@ func translate(l: Character, trans: Int) -> Character{
             let x = per(a:(Int((ascii))-65+trans), b: 26)
             outPutInt = x+65
         }
-        print(Character(UnicodeScalar(outPutInt)!))
         return Character(UnicodeScalar(outPutInt)!)
     }
     return Character("")
